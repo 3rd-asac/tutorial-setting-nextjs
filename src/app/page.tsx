@@ -1,3 +1,5 @@
+'use client'
+
 import { ExampleModal, ModalContext } from '@/components/ModalProvider'
 import Image from 'next/image'
 import { useContext } from 'react'

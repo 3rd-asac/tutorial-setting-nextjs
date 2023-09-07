@@ -1,3 +1,5 @@
+'use client'
+
 import ModalProvider from '@/components/ModalProvider'
 import { StyledEngineProvider } from '@mui/material'
 
